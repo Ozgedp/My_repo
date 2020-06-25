@@ -78,7 +78,7 @@ The second output will print the map, its coordinates are ranging between 90 and
 
 Printed map will only show the specific range of latitudes and longitudes to cover all the cities. Possibly the output map will not have longitudes range between -180 to +180, and latitides range between -90 to +90. Because this program will adapt the input coordinates, and will only start from input coordinates.
 
-To show the printed map, the program returns a GUI window using Tkinder module, thus user can interactively scroll up and down in the map to see all the cities. Here are example images of the output:
+To show the printed map, the program returns a GUI window using Tkinder module, thus user can interactively scroll up and down in the map to see all the cities. Here is the example image of the output:
 
 ![Figure 3. Tkinder Map Representation2](https://github.com/Ozgedp/Project-1/blob/master/images/tkinder_map_2.jpg)
 
