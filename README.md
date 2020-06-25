@@ -80,9 +80,7 @@ Printed map will only show the specific range of latitudes and longitudes to cov
 
 To show the printed map, the program returns a GUI window using Tkinder module, thus user can interactively scroll up and down in the map to see all the cities. Here are example images of the output:
 
-![Figure 3. Tkinder Map Representation1](https://github.com/Ozgedp/Project-1/blob/master/images/tkinder_map_1.jpg)
-
-![Figure 4. Tkinder Map Representation2](https://github.com/Ozgedp/Project-1/blob/master/images/tkinder_map_2.jpg)
+![Figure 3. Tkinder Map Representation2](https://github.com/Ozgedp/Project-1/blob/master/images/tkinder_map_2.jpg)
 
 
 
