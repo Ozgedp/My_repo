@@ -450,7 +450,7 @@ def main():
     best_cycle = find_best_cycle(road_map)
 
     # to print the original data
-    print("\nHere is the original City Data:\n", road_map, "\n")
+    # print("\nHere is the original City Data:\n", road_map, "\n")
 
     # to print the best cycle
     print("\nHere is found the best cycle with its costs:\n")
