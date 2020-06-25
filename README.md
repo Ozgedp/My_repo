@@ -16,8 +16,8 @@ that the salesman should follow?
 
 Suppose that there are a number of "cities", as in shown in Figure 1:
 
-![Figure 1, Cities](https://www.dcs.bbk.ac.uk/~vlad/pub/pop1/proj/Figure1.png)  
-*source: https://www.dcs.bbk.ac.uk/~vlad/pub/pop1/proj/Figure1.png*
+![Figure 1, Cities](https://Ozgedp.github.com/Project-1/images/cities.jpg)  
+
 
 
 The distance between cities are calculted with euclidean distance formula.
@@ -27,9 +27,7 @@ After visiting every city in the list exactly once,
 the salesman have to come back to city where it starts at the end of the journey.
 This courney can be shown as a circuit in Figure 2.
 
-![Figure 2. A circuit](https://www.dcs.bbk.ac.uk/~vlad/pub/pop1/proj/Figure2.png)
-
-*source: https://www.dcs.bbk.ac.uk/~vlad/pub/pop1/proj/Figure2.png*
+![Figure 2. A circuit](https://github.com/Ozgedp/Project-1/blob/master/images/linked_cities.jpg)
 
 
 ## Data representation
