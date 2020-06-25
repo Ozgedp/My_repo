@@ -3,11 +3,11 @@ In this project I focused on Traveling Salesman problem, as well as Test Driven 
 to follow cities that is going to be visited.
 
 
-Functions starts with "visualise" names are created to apply to extend the implementation with functionality to
-visualize road maps. To visualize the road map, it follows the way "A" in the coursework. After importing the best map
-from cities.py, it uses "TEXTUAL PRINTING" method to visualise the map.
-Here is an example of the output:
-     -159 -158 -157 -156 -155 -154 -153 -152 -151
+Functions starts with "visualise" names are created to apply to extend the implementation with functionality to. 
+visualize road maps. To visualize the road map, it follows the way "A" in the coursework. After importing the best map. 
+from cities.py, it uses "TEXTUAL PRINTING" method to visualise the map.  
+Here is an example of the output:  
+     -159 -158 -157 -156 -155 -154 -153 -152 -151. 
        |    |    |    |    |    |    |    |    |
 59   - 1  - 3  -    -    -    -   -    -    -
        |    |    |    |    |    |    |    |    |
