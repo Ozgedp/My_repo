@@ -16,9 +16,7 @@ that the salesman should follow?
 
 Suppose that there are a number of "cities", as in shown in Figure 1:
 
-![Figure 1, Cities](https://Ozgedp.github.com/Project-1/images/cities.jpg)  
-
-
+![Figure 1, Cities](https://github.com/Ozgedp/Project-1/blob/master/images/cities.jpg)  
 
 The distance between cities are calculted with euclidean distance formula.
 Which  means, I assumed that the world is flat.
