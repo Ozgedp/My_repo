@@ -1,16 +1,16 @@
 # Traveling Salesman
 
-This project is to solve classic travelling salesman problem.
-There is a salesman who has to visit a list of cities only once
-and then had to finish the journey where it starts. The salesman
-had to minimize total distance, thus what is the best route
-that the salesman should follow? 
+- This project is to solve classic travelling salesman problem and the code outputs an interactive Python GUI map with Tkinder to show the coordinates of the best route.
+
+- There is a salesman who has to visit a list of cities only once and then had to finish the journey where it starts. The salesman had to minimize total distance, thus what is the best route that the salesman should follow? 
 
 ## Purposes of this project
 
-- Solving complex problems with Python 3 programs.
+- Solving complex problems with Python 3 programming language.
+- Implementing Python GUI (Graphical User Interface) programming with Tkinder package
+- Writing tests (used  pytest) and *Test-Driven-Development* (TDD).
 - Considering different search algorithms and data structures.
-- Practice writing tests (used  pytest) and *Test-Driven-Development* (TDD).
+
 
 ## Details of the Problem
 
@@ -73,5 +73,11 @@ The second output will print the map, its coordinates are ranging between 90 and
 
 Printed map will only show the specific range of latitudes and longitudes to cover all the cities. Possibly the output map will not have longitudes range between -180 to +180, and latitides range between -90 to +90. Because this program will adapt the input coordinates, and will only start from input coordinates.
 
-To show the printed map, the program returns a GUI window using Tkinder module, thus user can scroll up and down in the map to see all the cities. Here is an example of the output:
+To show the printed map, the program returns a GUI window using Tkinder module, thus user can interactively scroll up and down in the map to see all the cities. Here is an example of the output:
+
+![Figure 3. Tkinder Map Representation1](https://github.com/Ozgedp/Project-1/blob/master/images/tkinder_map_1.jpg)
+
+![Figure 4. Tkinder Map Representation2](https://github.com/Ozgedp/Project-1/blob/master/images/tkinder_map_2.jpg)
+
+
 
